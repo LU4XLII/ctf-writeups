@@ -2,7 +2,7 @@
 
 After extracting the file `submit_the_flag_that_is_here.txt` we found some hashes. A quick test with [crackstation](http://crackstation.net/) gave us a start point.
 
-![hash](./hash.png)
+![hash](/../master/FireShell/hash.PNG)
 
 ```python
 import string
